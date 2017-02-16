@@ -17,5 +17,13 @@
         <config-file target="*-Info.plist" parent="ITSAppUsesNonExemptEncryption">
             <false/>
         </config-file>
+        
+        <config-file target="*-Info.plist" parent="NSHealthShareUsageDescription">
+            <string>Including health data for analysis</string>
+        </config-file>
+        
+        <config-file target="*-Info.plist" parent="NSHealthUpdateUsageDescription">
+            <string>Including health data for analysis</string>
+        </config-file>
     </platform>
 </plugin>
