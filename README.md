@@ -1,7 +1,7 @@
-# iOS No Export Compliance
+# iOS Plist Entries
 
-This plugin set ITSAppUsesNonExemptEncryption to false in *-Info.plist file
+This plugin set plist entries in *-Info.plist file
 
 ## Installation
 
-`$ cordova plugin add https://github.com/mikaoelitiana/cordova-plugin-ios-no-export-compliance.git`
+`$ cordova plugin add https://github.com/mrgcohen/cordova-plugin-ios-plist-entries.git`
